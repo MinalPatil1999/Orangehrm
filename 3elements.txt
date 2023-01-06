@@ -1,0 +1,22 @@
+3 Elements:
+
+(//li[text()='2 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]
+(//li[text()='2 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../../..
+(//li[text()='2 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']
+(//li[text()='2 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..
+(//li[text()='2 GB RAM | 32 GB ROM | Expandable Upto 1 TB'])[1]/../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
+
+
+2 Elements:
+//div[text()='realme C30s (Stripe Blue, 32 GB)']
+//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..
+//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
+
+
+
+Add to Compare:
+(//span[text()='Add to Compare'])[1]
+(//span[text()='Add to Compare'])[1]/../../../../..
+(//span[text()='Add to Compare'])[1]/../../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']
+(//span[text()='Add to Compare'])[1]/../../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..
+(//span[text()='Add to Compare'])[1]/../../../../..//div[text()='realme C30s (Stripe Blue, 32 GB)']/../..//div[@class='_30jeq3 _1_WHN1']
